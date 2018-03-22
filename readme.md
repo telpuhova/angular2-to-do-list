@@ -1,6 +1,7 @@
 # angular2-to-do-list
 
-To do list app, written using Angular 2, 2/22/2018
+To do list app, written using Angular 2
+2/22/2018
 
 **By Natalia Telpukhova**
 
